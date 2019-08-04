@@ -8,8 +8,6 @@ int yearcode(int y)
 }
 
 
-
-
 int monthcode(char mon)
 {
     if(mon==1)
