@@ -54,7 +54,7 @@ int centuarycode(int cen)
     else
         return 0;
 }
-
+/* main program from here */
 int main()
 {
     int date;
