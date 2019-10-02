@@ -1,2 +1,1 @@
-#sample cpp program
- Sample prgm to find day
+# sample cpp program to find day using given date
