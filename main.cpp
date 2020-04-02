@@ -3,6 +3,7 @@
 using namespace std;
 //comment
 //another
+//lastone
 int yearcode(int y)
 {
     return (y+(y/4))%7;
