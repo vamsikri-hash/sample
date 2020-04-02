@@ -109,7 +109,7 @@ int main()
 
      
 
-#some comment
+//some comment
 
 
   if(h==0)
