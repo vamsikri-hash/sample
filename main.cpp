@@ -1,8 +1,6 @@
 #include<iostream>
 #include<string>
 using namespace std;
-//comment
-//another
 int yearcode(int y)
 {
     return (y+(y/4))%7;
