@@ -9,7 +9,6 @@ int yearcode(int y)
 
 }
 
-
 int monthcode(char mon)
 {
     if(mon==1)
@@ -36,7 +35,6 @@ int monthcode(char mon)
             return 3;
         else
             return 5;
-
 }
 
 int centuarycode(int cen)
@@ -111,7 +109,7 @@ int main()
 
      
 
-
+#some comment
 
 
   if(h==0)
